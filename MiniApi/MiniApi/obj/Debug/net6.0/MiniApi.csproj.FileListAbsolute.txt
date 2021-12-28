@@ -25,3 +25,8 @@ C:\Projetos\MInimalAPi\MiniApi\MiniApi\obj\Debug\net6.0\MiniApi.dll
 C:\Projetos\MInimalAPi\MiniApi\MiniApi\obj\Debug\net6.0\ref\MiniApi.dll
 C:\Projetos\MInimalAPi\MiniApi\MiniApi\obj\Debug\net6.0\MiniApi.pdb
 C:\Projetos\MInimalAPi\MiniApi\MiniApi\obj\Debug\net6.0\MiniApi.genruntimeconfig.cache
+C:\Projetos\MInimalAPi\MiniApi\MiniApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Projetos\MInimalAPi\MiniApi\MiniApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\MInimalAPi\MiniApi\MiniApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\MInimalAPi\MiniApi\MiniApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Projetos\MInimalAPi\MiniApi\MiniApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
